@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoFacil", "GestaoFacil\GestaoFacil.csproj", "{F532A86F-AB6B-4E7D-B2DA-E3336333422D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.UI", "GestaoFacil\Web.UI.csproj", "{F532A86F-AB6B-4E7D-B2DA-E3336333422D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoFacil.Dados", "GestaoFacil.Dados\GestaoFacil.Dados.csproj", "{80B78F64-DB54-4E81-A9A9-65388766C8D3}"
 EndProject
