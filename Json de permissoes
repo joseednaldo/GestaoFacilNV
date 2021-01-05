@@ -1,0 +1,61 @@
+ex:1
+<permissoes>
+	<modelos>
+		<cadastros>
+			<componentes>
+				<depesas>nome da tela</despesas>
+				<receitas>nome da tela<</receitas>
+			<componentes>
+		</cadastros>
+	</modelos>
+</permissoes>
+
+
+ex:2 json
+{
+    "Usuario": "Jose Carlos",
+    "Mod_Cadastro":  {  
+				      "Componentes": [
+                            {
+                                "mnuItemClientes": "cliente",
+                                "url": "..."
+                            },
+                            {
+                                "mnuItemProfissionais": "Profissionais",
+                                "url": "..."
+                            },
+							{
+                                "mnuItemServicos": "Servicos",
+                                "url": "..."
+                            },
+							{
+                                "mnuItemServicos": "Servicos",
+                                "url": "..."
+                            }
+                     ]
+                },
+				
+		"Mod_Financeiro":  {  
+				      "Componentes": [
+                            {
+                                "mnuItemDespesas": "Despesas",
+                                "url": "..."
+                            }
+                     ]
+                },
+			"Mod_Faturamento":  {  
+				      "Componentes": [
+                            {
+                                "mnuItemFaturamento": "Faturamento",
+                                "url": "..."
+                            },
+							 {
+                                "xxx": "xxxxx",
+                                "url": "..."
+                            }
+                     ]
+                }
+				
+				
+
+}
